@@ -1,0 +1,12 @@
+D:\Programming Codes\BasicCalculator\CalculatorPrivateAssembly\bin\Debug\net6.0\CalculatorPrivateAssembly.deps.json
+D:\Programming Codes\BasicCalculator\CalculatorPrivateAssembly\bin\Debug\net6.0\CalculatorPrivateAssembly.dll
+D:\Programming Codes\BasicCalculator\CalculatorPrivateAssembly\bin\Debug\net6.0\CalculatorPrivateAssembly.pdb
+D:\Programming Codes\BasicCalculator\CalculatorPrivateAssembly\obj\Debug\net6.0\CalculatorPrivateAssembly.csproj.AssemblyReference.cache
+D:\Programming Codes\BasicCalculator\CalculatorPrivateAssembly\obj\Debug\net6.0\CalculatorPrivateAssembly.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming Codes\BasicCalculator\CalculatorPrivateAssembly\obj\Debug\net6.0\CalculatorPrivateAssembly.AssemblyInfoInputs.cache
+D:\Programming Codes\BasicCalculator\CalculatorPrivateAssembly\obj\Debug\net6.0\CalculatorPrivateAssembly.AssemblyInfo.cs
+D:\Programming Codes\BasicCalculator\CalculatorPrivateAssembly\obj\Debug\net6.0\CalculatorPrivateAssembly.csproj.CoreCompileInputs.cache
+D:\Programming Codes\BasicCalculator\CalculatorPrivateAssembly\obj\Debug\net6.0\CalculatorPrivateAssembly.dll
+D:\Programming Codes\BasicCalculator\CalculatorPrivateAssembly\obj\Debug\net6.0\refint\CalculatorPrivateAssembly.dll
+D:\Programming Codes\BasicCalculator\CalculatorPrivateAssembly\obj\Debug\net6.0\CalculatorPrivateAssembly.pdb
+D:\Programming Codes\BasicCalculator\CalculatorPrivateAssembly\obj\Debug\net6.0\ref\CalculatorPrivateAssembly.dll
